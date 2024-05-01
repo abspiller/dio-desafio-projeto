@@ -4,4 +4,4 @@ Primeiro Desafio de Projeto do Bootcamp **Backend com Java** do [Santander Open 
 
 Esses desafios servem para aplicarmos os conhecimentos adquiridos com as aulas.
 
-Nesse primeiro projeto foi solicitado um programa que simula uma conta bancaária, onde os usuários devem fornecer seus dados via teclado e ver uma mensagem ao final.
+Nesse primeiro projeto foi solicitado um programa que simula uma conta bancária, onde os usuários devem fornecer seus dados via teclado e ver uma mensagem ao final.
