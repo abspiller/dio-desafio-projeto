@@ -37,11 +37,7 @@ public class ContaCorrente {
             System.out.println("3. Sacar");
             System.out.println("4. Sair");
             opcao = leitura.nextInt();
-
-
-            double saldoAtual = saldo;
-
-
+            
             if (opcao == 1){
                 System.out.println("O saldo atual é: " + saldo);
             }
